@@ -1,0 +1,15 @@
+#header {
+	color: #f00;
+	font-weight: bold;
+}
+
+.box{
+	border: 1px solid gray;
+	width: 400px;
+	height: 200px;
+}
+
+.PH-header{
+	color: blue;
+	background-color: yellow;
+}
