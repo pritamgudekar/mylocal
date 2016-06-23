@@ -25,7 +25,41 @@ margin-left: 15px;
 margin-top: 15px;
 }
 
-#rushi{
-	margin-top: 40px;
-	border:5px solid black; 
+#d1{
+padding:20px;
+background-color:#f2f2f2;
+position:absolute;
+left:60%;
+top:20%;
+
 }
+input[type="text"], select{
+width:100%;
+display:inline-block;
+padding:10px;
+border:1px solid #ccc;
+border-radius:4px;
+box-sizing:border-box;
+
+}
+input[type="checkbox"], select{
+
+display:inline-block;
+padding:10px;
+border:1px solid #ccc;
+border-radius:4px;
+box-sizing:border-box;
+
+}
+input[type=submit]{
+width:100%;
+padding:10px;
+margin:8px 0;
+background-color:#4CAF50;
+color:white;
+}
+input[type=submit]:hover{
+background-color:green;
+
+}
+
