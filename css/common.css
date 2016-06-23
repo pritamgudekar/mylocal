@@ -13,3 +13,19 @@
 	color: blue;
 	background-color: yellow;
 }
+
+.h-name{
+	color:red;
+	background-color: yellow;
+}
+
+div{
+background-color: yellow;
+margin-left: 15px;
+margin-top: 15px;
+}
+
+#rushi{
+	margin-top: 40px;
+	border:5px solid black; 
+}
